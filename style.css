@@ -96,3 +96,7 @@ ul li a:hover + .hidden, .hidden:hover {
 		width: 100%; /* Делаем все ссылки меню максимальной шириной */
 	}
 }
+
+footer {
+	position: bottom;
+}
